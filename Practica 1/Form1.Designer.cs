@@ -28,43 +28,53 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
-            pictureBox1 = new PictureBox();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            button1 = new Button();
+            listBox1 = new ListBox();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Showcard Gothic", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(76, 9);
+            label1.Font = new Font("Showcard Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(52, 36);
             label1.Name = "label1";
-            label1.Size = new Size(260, 23);
+            label1.Size = new Size(302, 20);
             label1.TabIndex = 0;
-            label1.Text = "Gif animado Practica 1";
+            label1.Text = "Escribe los numeros del 0 al 10";
             // 
-            // pictureBox1
+            // button1
             // 
-            pictureBox1.Image = Properties.Resources.rana_imagen_animada_0015;
-            pictureBox1.Location = new Point(76, 56);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(339, 277);
-            pictureBox1.TabIndex = 1;
-            pictureBox1.TabStop = false;
+            button1.BackColor = Color.FromArgb(255, 192, 192);
+            button1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button1.Location = new Point(252, 136);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 30);
+            button1.TabIndex = 1;
+            button1.Text = "Listar";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
+            // listBox1
+            // 
+            listBox1.FormattingEnabled = true;
+            listBox1.ItemHeight = 15;
+            listBox1.Location = new Point(74, 81);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(120, 169);
+            listBox1.TabIndex = 2;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(192, 255, 192);
-            ClientSize = new Size(505, 392);
-            Controls.Add(pictureBox1);
+            BackColor = Color.FromArgb(255, 224, 192);
+            ClientSize = new Size(440, 450);
+            Controls.Add(listBox1);
+            Controls.Add(button1);
             Controls.Add(label1);
-            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -72,6 +82,7 @@
         #endregion
 
         private Label label1;
-        private PictureBox pictureBox1;
+        private Button button1;
+        private ListBox listBox1;
     }
 }

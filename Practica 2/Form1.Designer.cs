@@ -31,166 +31,87 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
-            label4 = new Label();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
-            label5 = new Label();
-            label6 = new Label();
-            label7 = new Label();
-            label8 = new Label();
+            listBox1 = new ListBox();
             button1 = new Button();
-            button2 = new Button();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Showcard Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(54, 30);
+            label1.Font = new Font("Showcard Gothic", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label1.Location = new Point(268, 49);
             label1.Name = "label1";
-            label1.Size = new Size(174, 20);
+            label1.Size = new Size(258, 23);
             label1.TabIndex = 0;
-            label1.Text = "Escribe un numero ";
+            label1.Text = "Tabla de Multiplicacion";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Showcard Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.Location = new Point(54, 69);
+            label2.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label2.Location = new Point(24, 123);
             label2.Name = "label2";
-            label2.Size = new Size(174, 20);
+            label2.Size = new Size(328, 21);
             label2.TabIndex = 1;
-            label2.Text = "Escribe un numero ";
+            label2.Text = "Introduce el valor de la tabla de multiplicacion";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("Showcard Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label3.Location = new Point(54, 111);
+            label3.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label3.Location = new Point(454, 123);
             label3.Name = "label3";
-            label3.Size = new Size(174, 20);
+            label3.Size = new Size(320, 21);
             label3.TabIndex = 2;
-            label3.Text = "Escribe un numero ";
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Font = new Font("Showcard Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label4.Location = new Point(54, 144);
-            label4.Name = "label4";
-            label4.Size = new Size(174, 20);
-            label4.TabIndex = 3;
-            label4.Text = "Escribe un numero ";
+            label3.Text = "limite maximo para la tabla de multiplicacion";
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(265, 30);
+            textBox1.Location = new Point(132, 178);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 4;
+            textBox1.TabIndex = 3;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(265, 111);
+            textBox2.Location = new Point(594, 179);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(100, 23);
-            textBox2.TabIndex = 5;
+            textBox2.TabIndex = 4;
             // 
-            // textBox3
+            // listBox1
             // 
-            textBox3.Location = new Point(266, 69);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(100, 23);
-            textBox3.TabIndex = 6;
-            // 
-            // textBox4
-            // 
-            textBox4.Location = new Point(265, 146);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(100, 23);
-            textBox4.TabIndex = 7;
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.Font = new Font("Showcard Gothic", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label5.Location = new Point(89, 220);
-            label5.Name = "label5";
-            label5.Size = new Size(24, 18);
-            label5.TabIndex = 8;
-            label5.Text = "N1";
-            // 
-            // label6
-            // 
-            label6.AutoSize = true;
-            label6.Font = new Font("Showcard Gothic", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label6.Location = new Point(227, 220);
-            label6.Name = "label6";
-            label6.Size = new Size(25, 18);
-            label6.TabIndex = 9;
-            label6.Text = "N3";
-            // 
-            // label7
-            // 
-            label7.AutoSize = true;
-            label7.Font = new Font("Showcard Gothic", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label7.Location = new Point(158, 220);
-            label7.Name = "label7";
-            label7.Size = new Size(25, 18);
-            label7.TabIndex = 10;
-            label7.Text = "N2";
-            // 
-            // label8
-            // 
-            label8.AutoSize = true;
-            label8.Font = new Font("Showcard Gothic", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label8.Location = new Point(304, 220);
-            label8.Name = "label8";
-            label8.Size = new Size(26, 18);
-            label8.TabIndex = 11;
-            label8.Text = "N4";
+            listBox1.FormattingEnabled = true;
+            listBox1.ItemHeight = 15;
+            listBox1.Location = new Point(338, 179);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(136, 154);
+            listBox1.TabIndex = 5;
             // 
             // button1
             // 
-            button1.Font = new Font("Showcard Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button1.Location = new Point(423, 57);
+            button1.BackColor = Color.FromArgb(255, 192, 192);
+            button1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button1.Location = new Point(594, 318);
             button1.Name = "button1";
-            button1.Size = new Size(118, 32);
-            button1.TabIndex = 12;
-            button1.Text = "Invertir";
-            button1.UseVisualStyleBackColor = true;
+            button1.Size = new Size(80, 31);
+            button1.TabIndex = 6;
+            button1.Text = "Calcular";
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
-            // 
-            // button2
-            // 
-            button2.Font = new Font("Showcard Gothic", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button2.Location = new Point(443, 134);
-            button2.Name = "button2";
-            button2.Size = new Size(86, 35);
-            button2.TabIndex = 13;
-            button2.Text = "Salir";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(255, 192, 128);
-            ClientSize = new Size(612, 277);
-            Controls.Add(button2);
+            BackColor = Color.FromArgb(255, 255, 128);
+            ClientSize = new Size(800, 450);
             Controls.Add(button1);
-            Controls.Add(label8);
-            Controls.Add(label7);
-            Controls.Add(label6);
-            Controls.Add(label5);
-            Controls.Add(textBox4);
-            Controls.Add(textBox3);
+            Controls.Add(listBox1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
-            Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -205,16 +126,9 @@
         private Label label1;
         private Label label2;
         private Label label3;
-        private Label label4;
         private TextBox textBox1;
         private TextBox textBox2;
-        private TextBox textBox3;
-        private TextBox textBox4;
-        private Label label5;
-        private Label label6;
-        private Label label7;
-        private Label label8;
+        private ListBox listBox1;
         private Button button1;
-        private Button button2;
     }
 }
