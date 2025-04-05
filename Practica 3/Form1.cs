@@ -1,7 +1,10 @@
+using System.Numerics;
+
 namespace Practica_3
 {
     public partial class Form1 : Form
     {
+        float f_num, Total = 0;
         public Form1()
         {
             InitializeComponent();
@@ -9,10 +12,17 @@ namespace Practica_3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int num1 = Int32.Parse(textBox1.Text);
-            int num2 = Int32.Parse(textBox2.Text);
-            int sum = num1 + num2;
-            label4.Text = "sum = " + sum;
+            listBox1.Items.Add(textBox1.Text);
+
+            f_num = float.Parse(textBox1.Text);
+            Total += f_num;
+            textBox1.Text = " ";
+            textBox1.Focus();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = Total.ToString();
         }
     }
 }
