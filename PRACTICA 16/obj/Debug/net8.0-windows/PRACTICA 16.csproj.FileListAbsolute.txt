@@ -1,0 +1,32 @@
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\bin\Debug\net8.0-windows\PRACTICA 16.exe
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\bin\Debug\net8.0-windows\PRACTICA 16.deps.json
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\bin\Debug\net8.0-windows\PRACTICA 16.runtimeconfig.json
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\bin\Debug\net8.0-windows\PRACTICA 16.dll
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\bin\Debug\net8.0-windows\PRACTICA 16.pdb
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA_16.Form1.resources
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.csproj.GenerateResource.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.dll
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\refint\PRACTICA 16.dll
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.pdb
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 16\obj\Debug\net8.0-windows\ref\PRACTICA 16.dll
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\bin\Debug\net8.0-windows\PRACTICA 16.exe
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\bin\Debug\net8.0-windows\PRACTICA 16.deps.json
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\bin\Debug\net8.0-windows\PRACTICA 16.runtimeconfig.json
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\bin\Debug\net8.0-windows\PRACTICA 16.dll
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\bin\Debug\net8.0-windows\PRACTICA 16.pdb
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA_16.Form1.resources
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.csproj.GenerateResource.cache
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.AssemblyInfoInputs.cache
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.AssemblyInfo.cs
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.dll
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\refint\PRACTICA 16.dll
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.pdb
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\PRACTICA 16.genruntimeconfig.cache
+C:\Users\lenovo 75\OneDrive\Escritorio\TEC UNI\2DO SEMESTRE\Programacion\Visual Studio\For whille do\PRACTICA 16\obj\Debug\net8.0-windows\ref\PRACTICA 16.dll
